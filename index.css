@@ -45,4 +45,17 @@ li{
   padding: 30px;
   background-color:#e5e5e5;
   line-height: 1.6;
-  
+}
+
+#dont {
+  margin: 35px;
+
+}
+
+#street1 {
+  color:  #6CB840;
+}
+
+#eat {
+  color: #EAAB1B;
+}
