@@ -32,8 +32,6 @@ li{
 #streeth1{
   font-size: 50px;
   line-height: 40px;
-
-
 }
 
 #streeth2{
@@ -58,4 +56,20 @@ li{
 
 #eat {
   color: #EAAB1B;
+}
+#together{
+  background-color: 	#ffffff;
+  text-align: right;
+  padding: 70px;
+  line-height: 1.6;
+}
+
+#eating {
+  height: 400px;
+  width: 450px;
+}
+
+#img-menu {
+  height: 200px;
+  width: 250px;
 }
