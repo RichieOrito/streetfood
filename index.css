@@ -40,3 +40,9 @@ li{
   font-size: 30PX;
   line-height: 10px;
 }
+#street {
+  text-align: left;
+  padding: 30px;
+  background-color:#e5e5e5;
+  line-height: 1.6;
+  
