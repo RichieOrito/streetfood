@@ -13,8 +13,8 @@ body{
   background-color:#e5e5e5;
 }
 
-.two{
-  background-color:#bfbfbf ;
+#two{
+  background-color:  #C9ECB5;
 }
 
 .three{
@@ -80,10 +80,6 @@ li{
   width: 450px;
 }
 
-#img-menu {
-  height: 200px;
-  width: 250px;
-}
 
 .cards {
   padding: 60px;
@@ -137,7 +133,7 @@ li{
   background-color: #ffffff;
 } */
 
-#us {
+#us{
   color:#6CB840;
 
 }
@@ -146,9 +142,14 @@ li{
   color: #6CB840;
 }
 
-#hotdeals {
-  background-color:  #C9ECB5;
+#deals{
+  color: #6CB840;
 }
+#hotdeals {
+  height: 500px;
+  width: 450px;
+}
+
 
 #contactus {
   background-color: #FFD77C;
@@ -158,9 +159,35 @@ li{
 
 #button {
   background-color: #6CB840;
-
 }
 
 footer{
   background-color: #C9ECB5 ;
+  display: flex;
+  justify-content: space-between;
+}
+
+#tel{
+  border-left: 3px dashed black;
+  padding-left: 20px;
+  width: 300px;
+  line-height: 1.6;
+  margin-right: 200px;
+}
+
+#social {
+  width: auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+#logobutton {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fa fa-instagram {
+  display: flex;
+  justify-content: space-between;
+
 }
