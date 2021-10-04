@@ -13,10 +13,6 @@ body{
   background-color:#e5e5e5;
 }
 
-#two{
-  background-color:  #C9ECB5;
-}
-
 .three{
   background-color:#FFD77C;
 }
@@ -76,13 +72,13 @@ li{
 }
 
 #eating {
-  height: 400px;
-  width: 450px;
+  height: 300px;
+  width: 350px;
 }
 
 
 .cards {
-  padding: 60px;
+  padding: 60px 60px 0px 60px;
 }
 
 .card-menu {
@@ -142,14 +138,72 @@ li{
   color: #6CB840;
 }
 
-#deals{
-  color: #6CB840;
-}
-#hotdeals {
-  height: 500px;
-  width: 450px;
+#hot-deal {
+  background-color:  #C9ECB5;
+  padding: 5px;
+  line-height: 1.6;
+  /* display: flex; */
+  margin-top: 0px;
+  height: 650px;
+  width: 100%;
 }
 
+#hot-deal h2 {
+  text-align: center;
+
+}
+
+#hot-deal > h2 > span {
+  color: #6CB840; 
+}
+
+#hot-deal > .two > #combo-pack{
+
+  height: 400px;
+  width: 500px;
+  margin-left: 100px;
+  margin-top: 50px;
+
+}
+
+#hot-deal > .two {
+  display: flex;
+
+}
+
+#hot-deal > .two > .combo-images > #juice {
+    margin-top: -150px;
+    margin-left: 30px;
+  
+}
+
+
+#hot-deal > .two > .combo-images > #burger {
+  margin-left: -400px;
+  margin-top: 200px;
+
+}
+
+#hotdeal > h2 > span {
+  color: #6CB840; 
+}
+
+#hot-deal > .two > #combo-pack > h1 {
+  color: #6CB840;
+  font-size: 40px;
+
+}
+
+#hot-deal > .two > #combo-pack > h2 {
+  font-size: 30px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+#hot-deal > .two > #combo-pack > p {
+  font-size: 20px;
+  text-align: center;
+}
 
 #contactus {
   background-color: #FFD77C;
@@ -159,12 +213,19 @@ li{
 
 #button {
   background-color: #6CB840;
+  border-radius: 15px;
+}
+#button3 {
+  background-color: #6CB840;
+  padding: 7px 17px;
+
 }
 
-footer{
+footer {
   background-color: #C9ECB5 ;
   display: flex;
   justify-content: space-between;
+
 }
 
 #tel{
@@ -182,12 +243,12 @@ footer{
 }
 
 #logobutton {
-  display: flex;
-  justify-content: space-between;
+  line-height: 1.6;
+  width: auto;
+  align-items: center;
 }
-
-.fa fa-instagram {
-  display: flex;
-  justify-content: space-between;
+  
+#email {
+  border-radius: 550px;
 
 }
