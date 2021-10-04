@@ -33,6 +33,7 @@ body{
 li{
   display: inline;
   text-align: center;
+  padding: 20px;
 }
 
 #streeth1{
@@ -70,6 +71,8 @@ li{
   text-align: right;
   padding: 70px;
   line-height: 1.6;
+  display: flex;
+  justify-content: space-between;
 }
 
 #eating {
@@ -87,7 +90,7 @@ li{
 }
 
 .card-menu {
-  background-color: #6CB840;
+  background-color: #bfbfbf;
   padding: 60px;
 }
 
@@ -134,12 +137,7 @@ li{
   background-color: #ffffff;
 } */
 
-#exploremenu {
-  background-color: #bfbfbf;
-  padding: 10px;
-}
-
-#us{
+#us {
   color:#6CB840;
 
 }
