@@ -64,7 +64,7 @@ SOFTWARE.
 
 ## Authors Info
 
-Slack Profile - [Richard Omondi](https://app.slack.com/client/T0101L740P4/C010GLANY3A/user_profile/U02EZFHEJUA)
+Slack Profile - [Richard Orito Omondi](https://app.slack.com/client/T0101L740P4/C010GLANY3A/user_profile/U02EZFHEJUA)
 
 Linked - [Richard Orito](https://www.linkedin.com/in/richie-orito/)
 
