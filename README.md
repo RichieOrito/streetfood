@@ -25,7 +25,7 @@
 
 ### Installation Process
 
-[Go Back to the top](# FoodWebsite Project)
+[Go Back to the top](#FoodWebsite Project)
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
