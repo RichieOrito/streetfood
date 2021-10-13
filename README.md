@@ -1,5 +1,4 @@
 # FoodWebsite Project
-portfolio
 
 ##### RICHARD ORITO OMONDI
 ### It is a description of my Streetfood website.
